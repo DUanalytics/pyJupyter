@@ -1,0 +1,132 @@
+<html>Python Analytics : Pre- Course Instructions </html>
+(updated upto Oct 2022)
+
+PPT for instructions is also available here.. 
+
+Download and Install - Anaconda, Git, Git Desktop
+Create Git ID
+Create a blank repository in Git - oyAnalytics
+
+
+Knowledge which can help you during the Course
+Mathematical Background - Algebra, Geometry
+Statistics Techniques
+Business Process/Analysis (Domain wise)
+Some programming background (C/R/Python)
+Excel, SQL Techniques
+
+Before Start (Always find the latest version of application, download and setup as ADMINISTRATOR; unless specified otherwise)
+Install Anaconda :  https://www.anaconda.com/distribution/#download-section    (Windows or Mac) - 64 bit installer - (Check which OS you are installing)
+https://www.anaconda.com/products/individual
+https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+Complete the Anaconda Setup : See these instructions in LMS.
+Summary of Software to be downloaded and installed. If a new version is available, install that.
+
+
+
+
+
+
+Setup Links
+Software
+URL
+Latest version
+Anaconda
+https://www.anaconda.com/products/individual
+https://www.anaconda.com/products/individual#download-section
+https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+Windows -   Python 3.9 • 64-Bit Graphical Installer • 594 MB
+Git
+https://git-scm.com/download/win
+https://github.com/git-for-windows/git/releases/download/v2.37.2.windows.2/Git-2.37.2.2-64-bit.exe
+(this is installed by default in Mac)
+Windows - (48 MB)  Git-2.37.2.2-64-bit
+Git Desktop
+https://desktop.github.com/
+https://central.github.com/deployments/desktop/desktop/latest/win32
+Windows 3.0.6
+(110 MB)
+Java
+https://www.java.com/en/download/
+
+
+Ver 8 Update 311 ( 81.71 MB)
+
+
+
+Always Install as Administrator
+
+
+
+Online meetings app will be used.
+Meeting ID will be shared.
+Recording will be done and provided. 
+ 
+Project Management (Recommended) 
+Note : Mac Laptops already have Git and SVN installed. You may have to install some app depending upon existing configuration
+Signup for Git : https://github.com/ (verify with your email) and create your ID.
+Follow trainer Profile : https://github.com/xxxxxx  (xxxx - trainers ID)
+(https://github.com/dupadhyaya) 
+Star the repository which your trainer has specified  (mark star after your login so u can easily access the repository) (https://github.com/DUanalytics/pyAnalytics)
+Other Setup Trainer will explain during class / Can refer to online PPT in LMS or Mind Map shared
+
+
+
+
+ 
+LMS
+Login to LMS : site provided by HHE : https://lms.henryharvin.com/course/view.php?id=32
+Login ID - Will be shared on mail
+You will see courses where you have been enrolled.
+Complete the initial questionnaire asked for 
+Notes:
+Have your laptop fully charged
+Should have net connection central or mobile data
+Refresh your knowledge of Statistics and data manipulation in excel if learnt earlier
+For Online Classes preferably use headphones; can use your mobile for online video and laptop for practising the analytics work.
+You can give feedback at the end of each session (Conduct, Topics, Difficulties etc)
+Keep yourself updated with Course Schedule
+Mark your attendance Online (if asked)
+
+Create Folder Structure in your Computer (This is for organising your Projects/ E-Content)
+
+E:/   (C or D Drive)
+analytics
+projects
+ebooks
+datasets
+download
+
+
+We will organise all our analytics work in these folders. If you don’t have E drive, use C or D drives
+projects - save our repositories (all codes in folders)
+ebooks - all reference books/ cheat sheets
+datasets - all sample datasets from various sources
+Download - here you can save all your setup files - anaconda, git, git desktop etc
+
+
+IDE for Python
+Jupyter
+Spyder (This will be mainly Used) : 
+https://www.spyder-ide.org/
+https://docs.spyder-ide.org/current/index.html
+
+
+
+Other OS
+
+
+
+
+Anaconda for Mac OS
+https://docs.anaconda.com/anaconda/install/mac-os/
+https://www.anaconda.com/products/individual#Downloads
+https://repo.anaconda.com/archive/Anaconda3-2022.05-MacOSX-x86_64.pkg
+Anaconda for Linux
+https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
+Git for Mac
+https://git-scm.com/download/mac
+Git Desktop for Mac
+https://central.github.com/deployments/desktop/desktop/latest/darwin
+
+
