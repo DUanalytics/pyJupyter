@@ -1,0 +1,53 @@
+This shows the common topic in Data Science Course
+
+# Setup
+## Anaconda
+## Git + Git Desktop
+## Git Hub Config
+
+# IDE
+## Spyder
+## Jupyter
+
+
+# Data Strutures
+## List, Tuple, String, Sets, Dictionary
+## Numpy
+## Pandas
+
+
+# Graphs
+## Matplotlib
+## Seaborn
+## Graph Types
+### Bar
+### Historgram
+### Boxplot
+
+
+# Statistics
+## Mean, Median, Mode
+## Cor, Cov, Std, Var
+## Kurtosis, Skewness
+## Sampling
+## Normal Distribution
+## Hypothesis
+## Class Interval
+
+# Modeling
+## Linear Regression
+
+## Logistic Regression
+
+## Decision Tree
+
+## Association Rule Analysis
+
+## Clustering
+
+## Time Series
+
+## Text Mininh
+### Sentiment Analysis
+
+
