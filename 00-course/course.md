@@ -1,4 +1,7 @@
 This shows the common topic in Data Science Course
+To view in labs  : http://localhost:8888/lab
+Jupyter Native : http://localhost:8888/tree
+
 
 # Setup
 ## Anaconda
