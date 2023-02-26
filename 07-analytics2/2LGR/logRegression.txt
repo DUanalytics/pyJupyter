@@ -1,0 +1,4 @@
+Logistic Regression 
+
+https://www.andrewvillazon.com/logistic-regression-python-statsmodels/
+https://www.edureka.co/blog/logistic-regression-in-python/
