@@ -1,0 +1,6 @@
+Logistic Regression 
+
+https://www.andrewvillazon.com/logistic-regression-python-statsmodels/
+https://www.edureka.co/blog/logistic-regression-in-python/
+http://www.science.smith.edu/~jcrouser/SDS293/labs/lab4-py.html
+https://www.datacamp.com/tutorial/understanding-logistic-regression-python
