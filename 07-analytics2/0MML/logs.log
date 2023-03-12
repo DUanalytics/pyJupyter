@@ -3976,3 +3976,44 @@ distutils Version classes are deprecated. Use packaging.version instead.
 2023-03-12 18:11:53,119:INFO:save_model() successfully completed......................................
 2023-03-12 18:11:55,995:INFO:Initializing load_model()
 2023-03-12 18:11:55,995:INFO:load_model(model_name=ts_model, platform=None, authentication=None, verbose=True)
+2023-03-12 22:32:53,706:INFO:Soft dependency imported: mlxtend: 0.21.0
+2023-03-12 22:32:54,331:WARNING:C:\Users\du\AppData\Roaming\Python\Python39\site-packages\mlxtend\frequent_patterns\fpcommon.py:111: DeprecationWarning: DataFrames with non-bool types result in worse computationalperformance and their support might be discontinued in the future.Please use a DataFrame with bool type
+  warnings.warn(
+
+2023-03-12 22:32:57,652:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\xarray\core\pycompat.py:22: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  duck_array_version = LooseVersion(duck_array_module.__version__)
+
+2023-03-12 22:32:57,903:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\xarray\core\pycompat.py:37: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  duck_array_version = LooseVersion("0.0.0")
+
+2023-03-12 22:32:57,905:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\xarray\core\pycompat.py:37: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  duck_array_version = LooseVersion("0.0.0")
+
+2023-03-12 22:32:58,056:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\setuptools\_distutils\version.py:346: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+
+2023-03-12 22:32:58,056:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\setuptools\_distutils\version.py:346: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+
+2023-03-12 22:32:58,152:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\xarray\core\npcompat.py:82: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if LooseVersion(np.__version__) >= "1.20.0":
+
+2023-03-12 22:32:58,152:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\setuptools\_distutils\version.py:346: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+
+2023-03-12 22:32:58,174:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\xarray\core\pdcompat.py:45: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if LooseVersion(pd.__version__) < "0.25.0":
+
+2023-03-12 22:32:58,174:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\setuptools\_distutils\version.py:346: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+
+2023-03-12 22:33:05,459:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\plotly\io\_renderers.py:395: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
+2023-03-12 22:33:05,459:WARNING:C:\ProgramData\Anaconda3\lib\site-packages\plotly\io\_renderers.py:395: DeprecationWarning:
+
+distutils Version classes are deprecated. Use packaging.version instead.
+
+
