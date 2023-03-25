@@ -1,0 +1,4 @@
+About Text Mining and links
+
+
+https://www.nltk.org/book/ch03.html
