@@ -55,3 +55,5 @@ https://www.askpython.com/python/python-plotting-and-graph-libraries
 ### Sentiment Analysis
 
 
+## Cheatsheets
+https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets
